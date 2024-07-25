@@ -1,3 +1,4 @@
+cd /home/ucuser
 git clone https://github.com/mitre/caldera.git --recursive --branch 5.0.0
 cd caldera
 docker-compose build
